@@ -522,4 +522,14 @@ nav .fas {
 ::placeholder {
     color: #ff004f;
     opacity: 1; 
-  }
+}
+#last-button{
+    background-color: transparent;
+    cursor: pointer;
+
+}
+#last-button:hover{
+    background-color: #ff004f;
+    color: #ffffff;
+    transition: transform 0.5s;
+}
